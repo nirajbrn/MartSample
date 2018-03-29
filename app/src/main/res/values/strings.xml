@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedMart</string>
+    <string name="price">$ %1$s</string>
+    <string name="product_screen">Product Screen</string>
+</resources>
